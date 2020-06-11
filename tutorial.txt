@@ -6,4 +6,9 @@ Write a function/array
 an object can be written in various ways
 an array can be written in dot notation and bracket notation
 
+sparq demo video
+introduction to market research
+introduction to vision critical
+customer personas
+sparq diffrentiators
 
