@@ -5,5 +5,5 @@ create an object
 Write a function/array
 an object can be written in various ways
 an array can be written in dot notation and bracket notation
-
+thanks for watching my videos
 
